@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://joocoohiju.urbanek.work/sitemap.xml
